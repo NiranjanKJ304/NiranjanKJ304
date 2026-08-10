@@ -1,195 +1,51 @@
-# 👋 Hi, I'm Niranjan KJ
+# 👋 Hey There, I'm Niranjan
 
-### 🤖 AI Engineer | Agentic AI | RAG | LLM Applications
+### AI Engineer | Agentic AI | RAG | LLM Applications | MCP
 
-I’m an **AI Engineer** focused on building practical AI systems using **Large Language Models, Retrieval-Augmented Generation, Agentic AI, and intelligent automation**.
+## About Me
 
-I enjoy turning ideas into working products, especially systems where AI can **reason, retrieve information, interact with tools, and automate real-world workflows**.
+I'm an AI Engineer working on production-grade AI applications, with a focus on LLMs, RAG, Agentic AI, intelligent automation, and AI-powered decision systems. I enjoy building complete AI solutions that connect models, data, retrieval, business logic, and backend systems to solve real-world problems.
 
-Currently, I'm working on **Agentic AI, RAG, and LLM-based applications**, while continuously exploring new approaches in AI engineering and intelligent systems.
+## 💼 Currently Working On
 
----
+### FirstSolve
 
-## 🧠 About Me
+Working on production AI features for [FirstSolve](https://firstsolve.net/), an AI-powered IT service management platform. I work on AI-driven ticket understanding, response enhancement, contextual solution suggestions, and intelligent assistance for both customers and engineers, with different AI workflows and recommendations based on their roles and requirements.
 
-* 🤖 Working as an **AI Engineer**
-* 🧩 Building **Agentic AI & LLM applications**
-* 🔎 Working with **Retrieval-Augmented Generation (RAG)**
-* 🧠 Interested in **LLM applications, semantic search & intelligent automation**
-* ⚙️ Building backend systems and AI APIs
-* 🗄️ Working with both **SQL and NoSQL databases**
-* 🐳 Exploring **Docker, Linux and AI infrastructure**
-* 🚀 Interested in taking AI projects from **prototype → production**
-* 🎬 Passionate about **filmmaking, storytelling and creative technology**
+## 🚀 Projects Worked
 
----
+### 🧠 Candidate Ranking System
+**[Ana.de.armas-redrob-candidate-ranking](https://github.com/NiranjanKJ304/Ana.de.armas-redrob-candidate-ranking)**
 
-## 🛠️ Tech Stack
+An offline AI candidate-ranking engine designed to process 100K+ candidate profiles against job requirements. It combines structured feature engineering, semantic matching, retrieval, and multi-stage ranking to identify the most relevant candidates efficiently.
 
-### 🤖 AI / Machine Learning
+### 🚔 Crime Intelligence Bot
+**[crime-intelligence-bot](https://github.com/NiranjanKJ304/crime-intelligence-bot)**
 
-**Machine Learning · Deep Learning · NLP · RAG · LLMs · Semantic Search · Embeddings · AI Agents**
+An AI-powered crime investigation and analytics platform that transforms structured crime data into an intelligent conversational system. It combines ETL pipelines, PostgreSQL, knowledge graphs, vector search, GraphRAG, and LLM-based reasoning to help investigators explore relationships, cases, and evidence through natural language.
 
-### 🧩 AI Frameworks
+### 💰 AI MSME Loan Processor
+**[AI-MSME-Loanprocess](https://github.com/NiranjanKJ304/AI-MSME-Loanprocess)**
 
-**LangChain · LangGraph · Hugging Face Transformers · FastAPI**
-
-### 💻 Programming
-
-### 🗄️ Databases & Infrastructure
-
-**PostgreSQL · MongoDB · MySQL · Qdrant · Redis**
-
-### ⚙️ Tools & Platforms
-
-
-
-\
-
-**Git · GitHub · Docker · Linux**
-
----
-
-## 🚀 What I Build
-
-My main focus is building AI systems that go beyond simple chatbot interfaces.
-
-### 🧠 Agentic AI
-
-Building AI systems capable of:
-
-* 🔧 Tool calling
-* 🧩 Multi-step reasoning
-* 🔄 Workflow automation
-* 🗂️ Context management
-* 🤝 Agent-to-tool interaction
-* 📊 Structured decision making
-
-### 🔎 Retrieval-Augmented Generation
-
-Working with RAG pipelines involving:
-
-`Documents → Chunking → Embeddings → Vector Search → Retrieval → LLM → Response`
-
-Areas of interest include:
-
-* Semantic search
-* Vector databases
-* Document processing
-* Retrieval pipelines
-* Context optimization
-* Enterprise knowledge systems
-
-### 🤖 LLM Applications
-
-Building applications around LLMs for:
-
-* Intelligent assistants
-* AI-powered automation
-* Enterprise knowledge systems
-* AI ticketing systems
-* Candidate analysis
-* Interview automation
-* Conversational AI
-
----
-
-## 🔥 Featured Projects
-
-### 🏆 Intelligent Candidate Ranking System
-
-An AI-powered candidate ranking system designed to process **100K+ candidate profiles** and identify the most relevant candidates for a job description.
-
-**Focus:**
-
-* Semantic retrieval
-* Feature engineering
-* Explainable scoring
-* Large-scale candidate processing
-* CPU-efficient inference
-
-🔗 [View Project](https://github.com/NiranjanKJ304/Ana.de.armas-redrob-candidate-ranking)
-
----
+An AI-driven lending workflow designed to evaluate MSME financial health using multiple alternative data sources. The system processes financial signals, generates business insights, and supports automated credit assessment and lending decisions.
 
 ### 🎤 AI Interview BOT
+**[AI-Interview-BOT](https://github.com/NiranjanKJ304/AI-Interview-BOT)**
 
-An AI-powered interview platform combining conversational AI with interview evaluation.
+An AI-powered interview platform that conducts interactive interviews and evaluates candidate responses using conversational AI. It combines speech interaction, interview context, response analysis, and automated assessment to create a complete AI-driven interview workflow.
 
-**Features include:**
+### 🤖 AI & LLM Applications
 
-* 🎙️ Voice-based interviews
-* 🤖 AI-powered evaluation
-* 📹 Webcam-based analysis
-* 📊 Candidate assessment
-* 🧠 Automated interview intelligence
+I also build AI assistants, RAG systems, agentic workflows, intelligent ticketing systems, document-processing pipelines, and automation solutions that connect LLMs with real business processes.
 
-🔗 [View Project](https://github.com/NiranjanKJ304/AI-Interview-BOT)
+## 🛠️ Core Technologies
 
----
+**Python · FastAPI · LangChain · LangGraph · RAG · LLMs · Agentic AI · NLP · Semantic Search · PostgreSQL · MongoDB · Qdrant · Redis · Docker · Linux · Git**
 
-### 🎬 Storyboard AI for Movie Makers
+## 🧠 What I Like Building
 
-An AI-powered creative application for generating visual storyboards from text descriptions.
-
-Designed to help filmmakers experiment with:
-
-* 🎥 Camera angles
-* 🧍 Character continuity
-* 📝 Story visualization
-* 🎞️ Scene planning
+**LLM Applications · AI Agents · RAG Systems · Intelligent Automation · AI Decision Systems · MCP - Model Context Protocol · Enterprise AI · Conversational AI**
 
 ---
 
-## 🌱 Currently Exploring
-
-```text
-Agentic AI
-     ↓
-LLM Applications
-     ↓
-RAG & Semantic Search
-     ↓
-AI Agents & Tool Calling
-     ↓
-Production AI Systems
-     ↓
-AI Infrastructure & Deployment
-```
-
-I'm particularly interested in understanding how AI systems can move from **individual LLM calls to reliable, scalable and production-ready AI workflows**.
-
----
-
-## 💡 My AI Engineering Philosophy
-
-> **Don't just build models. Build systems that solve problems.**
-
-For me, AI engineering is the combination of:
-
-**Models + Data + Retrieval + Reasoning + Tools + Backend + Infrastructure**
-
-The interesting part is making all of those pieces work together.
-
----
-
-## 📈 GitHub Activity
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in discussing:
-
-* 🤖 AI Engineering
-* 🧠 LLMs & RAG
-* 🔗 Agentic AI
-* ⚙️ AI Automation
-* 💻 Software Engineering
-* 🎬 AI + Creative Technology
-
-### 🌐 Connect with me
-
----
-
-### ⚡ *Building intelligent systems, one experiment at a time.*
+### ⚡ Building AI systems that turn data and intelligence into useful products.
