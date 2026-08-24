@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=2196F3&width=600&lines=hey+there+iam+niranjan" alt="Dynamic Text Movement" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=2196F3&width=600&lines=Hey,+there+Iam+Niranjan" alt="Dynamic Text Movement" />
 </p>
 
 ### AI Engineer | Agentic AI | RAG | LLM Applications | MCP
