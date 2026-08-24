@@ -1,4 +1,6 @@
-# 👋 Hey There, I'm Niranjan
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=2196F3&width=600&lines=Hey+There,+I'm+Niranjan;AI+Engineer+|+Agentic+AI+|+RAG" alt="Niranjan" />
+</p>
 
 ### AI Engineer | Agentic AI | RAG | LLM Applications | MCP
 
