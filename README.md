@@ -2,7 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=2196F3&width=600&lines=Hey,+there+Iam+Niranjan" alt="Dynamic Text Movement" />
 </p>
 
-### AI Engineer | Agentic AI | RAG | LLM Applications | MCP
+<p align="left">
+  <img src="https://img.shields.io/badge/AI%20Engineer-111827?style=for-the-badge" alt="AI Engineer" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-1F2937?style=for-the-badge" alt="Agentic AI" />
+  <img src="https://img.shields.io/badge/RAG-374151?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/LLM%20Applications-4B5563?style=for-the-badge" alt="LLM Applications" />
+  <img src="https://img.shields.io/badge/MCP-6B7280?style=for-the-badge" alt="MCP" />
+</p>
 
 ## About Me
 
