@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=NIRANJAN%20KJ&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20AI%20%7C%20RAG%20%7C%20LLM%20Applications&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=NIRANJAN%20KJ&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer&descAlignY=60&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=3500&pause=1000&color=2196F3&center=true&vCenter=true&width=850&height=70&lines=Hey%2C+there+%F0%9F%91%8B+I'm+Niranjan;AI+Engineer+building+intelligent+systems;Building+Agentic+AI+%7C+RAG+%7C+LLM+Applications;Turning+data+%2B+models+into+useful+products;Exploring+MCP+%7C+AI+Agents+%7C+Enterprise+AI" alt="Typing Animation"/>
 
@@ -34,30 +34,25 @@ I'm an **AI Engineer** working on production-grade AI applications with a focus 
 
 I enjoy building complete AI systems that connect **models, data, retrieval, tools, business logic, and backend systems** to solve real-world problems.
 
-```text
-        ┌─────────────┐
-        │     LLM     │
-        └──────┬──────┘
-               ↓
-        ┌─────────────┐
-        │     RAG     │
-        └──────┬──────┘
-               ↓
-        ┌─────────────┐
-        │    TOOLS    │
-        └──────┬──────┘
-               ↓
-        ┌─────────────┐
-        │   AGENTS    │
-        └──────┬──────┘
-               ↓
-        ┌─────────────┐
-        │  BUSINESS   │
-        │    LOGIC    │
-        └──────┬──────┘
-               ↓
-        🚀 REAL-WORLD PRODUCT
-```
+<div align="center">
+
+<table>
+<tr>
+<td align="center">🧠<br><b>LLM</b></td>
+<td>→</td>
+<td align="center">🔎<br><b>RAG</b></td>
+<td>→</td>
+<td align="center">🛠️<br><b>TOOLS</b></td>
+<td>→</td>
+<td align="center">🤖<br><b>AGENTS</b></td>
+<td>→</td>
+<td align="center">⚙️<br><b>BUSINESS LOGIC</b></td>
+<td>→</td>
+<td align="center">🚀<br><b>REAL-WORLD PRODUCT</b></td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -77,20 +72,6 @@ I'm working on production AI features for [FirstSolve](https://firstsolve.net/),
 * 🤖 Intelligent assistance
 * ⚙️ Role-based AI workflows
 
-```text
-Customer / Engineer
-        ↓
-      Ticket
-        ↓
-  AI Understanding
-        ↓
- Context + Retrieval
-        ↓
-  AI Reasoning
-        ↓
-Suggestions / Response / Action
-```
-
 ---
 
 # 🛠️ Tech Stack
@@ -99,7 +80,7 @@ Suggestions / Response / Action
 
 ### 👨‍💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp" />
+<img src="https://skillicons.dev/icons?i=python,java" />
 
 ### 🤖 AI / ML
 
@@ -115,7 +96,7 @@ Suggestions / Response / Action
 
 ### ⚡ Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb,redis" />
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb,redis,neo4j" />
 
 <br><br>
 
@@ -249,62 +230,9 @@ An AI-powered conversational interview platform combining:
 
 ---
 
-# 🔬 Currently Exploring
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Agentic_AI-1D4ED8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MCP-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GraphRAG-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLM_Agents-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_Automation-059669?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Local_LLMs-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Vector_Databases-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Enterprise_AI-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_Inference-111827?style=for-the-badge"/>
-
-</div>
-
----
-
 # ⚙️ My AI Philosophy
 
 <div align="center">
-
-```text
-        DATA
-          │
-          ▼
-     ┌─────────┐
-     │ RETRIEVE│
-     └────┬────┘
-          │
-          ▼
-     ┌─────────┐
-     │   LLM   │
-     └────┬────┘
-          │
-          ▼
-     ┌─────────┐
-     │ REASON  │
-     └────┬────┘
-          │
-          ▼
-     ┌─────────┐
-     │  TOOLS  │
-     └────┬────┘
-          │
-          ▼
-     ┌─────────┐
-     │  ACT    │
-     └────┬────┘
-          │
-          ▼
-      REAL WORLD
-```
 
 ### Build → Learn → Experiment → Deploy → Repeat 🔁
 
@@ -320,12 +248,8 @@ An AI-powered conversational interview platform combining:
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/niranjan-kj-91308b2a8/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://firstsolve.net/">
-<img src="https://img.shields.io/badge/FirstSolve-1D4ED8?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
