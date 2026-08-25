@@ -112,32 +112,6 @@ I'm working on production AI features for [FirstSolve](https://firstsolve.net/),
 
 ---
 
-# 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/NiranjanKJ304/Ana.de.armas-redrob-candidate-ranking">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NiranjanKJ304&repo=Ana.de.armas-redrob-candidate-ranking&theme=github_dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/NiranjanKJ304/crime-intelligence-bot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NiranjanKJ304&repo=crime-intelligence-bot&theme=github_dark&hide_border=true" />
-</a>
-
-<br>
-
-<a href="https://github.com/NiranjanKJ304/AI-MSME-Loanprocess">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NiranjanKJ304&repo=AI-MSME-Loanprocess&theme=github_dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/NiranjanKJ304/AI-Interview-BOT">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NiranjanKJ304&repo=AI-Interview-BOT&theme=github_dark&hide_border=true" />
-</a>
-
-</div>
-
----
-
 # 🧠 Projects
 
 ### 🏆 Candidate Ranking System
@@ -195,36 +169,6 @@ An AI-powered conversational interview platform combining:
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NiranjanKJ304&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NiranjanKJ304&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NiranjanKJ304&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" width="95%"/>
-
-</div>
-
----
-
-# 🐍 Contribution Animation
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/NiranjanKJ304/NiranjanKJ304/output/github-contribution-grid-snake-dark.svg" width="95%" alt="GitHub Contribution Snake"/>
 
 </div>
 
