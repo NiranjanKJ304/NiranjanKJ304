@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=NIRANJAN%20KJ&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=220&section=header&text=NIRANJAN%20&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer&descAlignY=60&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=2196F3&center=true&vCenter=true&width=900&height=70&lines=Hey%2C%20there%20%F0%9F%91%8B%20I'm%20Niranjan;AI%20Engineer%20building%20intelligent%20systems;Building%20Agentic%20AI%20%7C%20RAG%20%7C%20LLM%20Applications;Specializing%20in%20GraphRAG%2C%20MCP%20%26%20Multi-Agent%20Swarms;Turning%20data%20%2B%20models%20into%20high-impact%20products;Exploring%20Model%20Context%20Protocol%20%7C%20Enterprise%20AI" alt="Typing Animation"/>
 
