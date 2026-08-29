@@ -128,26 +128,6 @@ I'm an **AI Engineer** specializing in production-grade AI systems, Agentic arch
 
 ---
 
-# 📊 Live GitHub Analytics & Activity
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=NiranjanKJ304&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&bg_color=0f172a"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiranjanKJ304&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=38bdf8&text_color=e2e8f0&bg_color=0f172a"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NiranjanKJ304&theme=github-dark-blue&hide_border=true&stroke=38bdf8&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" />
-
-</div>
-
----
-
 # ⚙️ Engineering Philosophy
 
 <div align="center">
